@@ -1,5 +1,7 @@
 # Google Cloud Storage
 
+[![Build Status](https://travis-ci.org/pepibumur/google-cloud-storage-swift.svg?branch=master)](https://travis-ci.org/pepibumur/google-cloud-storage-swift)
+
 A Google Cloud Storage client written in Swift
 
 # License
